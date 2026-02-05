@@ -1,0 +1,6 @@
+print(34+32)
+print(34-21)
+print(67/8)
+print(3*8)
+print(2**8)
+print(23%6)
